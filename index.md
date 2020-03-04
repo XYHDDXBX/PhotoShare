@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## PhotoShare介绍
 
-You can use the [editor on GitHub](https://github.com/XYHDDXBX/PhotoShare/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PhotoShare是一款定位为图片分享类软件，主要有广场、搜索、发图和我的四个主界面。在广场主界面中主要展示的是图片信息、地点
+PhotoShare是一款定位为图片分享类软件，主要有广场、搜索、发图和我的四个主界面。在广场主界面中主要展示的是图片信息、地点信息等；在搜索主界面可以搜索相关信息
+PhotoShare是一款定位为图片分享类软件，主要有广场、搜索、发图和我的四个主界面。在广场主界面中主要展示的是图片信息、地点信息等；在搜索主界面可以搜索相关
 
 ### Markdown
 
